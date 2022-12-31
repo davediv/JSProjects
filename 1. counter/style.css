@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 1rem;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.container {
+    width: 480px;
+    margin: auto;
+    padding: 1rem;
+    background-color: #000;
+    color: #fff;
+    border-radius: 9px;
+}
+
+.counter {
+    margin: 1rem auto;
+}
+
+.btn-wrap {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    padding: .3rem 1rem;
+}
